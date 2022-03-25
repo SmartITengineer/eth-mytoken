@@ -1,0 +1,26 @@
+{
+  "name": "eth-mytoken",
+  "version": "1.0.0",
+  "description": "DApp Token Sale ICO",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartITengineer/eth-mytoken.git"
+  },
+  "author": "SmartIT",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SmartITengineer/eth-mytoken/issues"
+  },
+  "homepage": "https://github.com/SmartITengineer/eth-mytoken#readme"
+}
